@@ -1,0 +1,5 @@
+<resources>
+    <string name="server_client_id" translatable="false">593420604583-o363g7etkopdbq0l7ne5684dcup70sql.apps.googleusercontent.com</string>
+    <string name="register_account">Don’t have an account?</string>
+    <string name="app_name">Door</string>
+</resources>

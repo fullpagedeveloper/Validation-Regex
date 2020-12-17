@@ -1,0 +1,4 @@
+#Tue Jul 28 16:40:47 WIB 2020
+base.0=/Users/androidtsm/Documents/Learning/firebase/GoogleAuthWithBackend/app/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

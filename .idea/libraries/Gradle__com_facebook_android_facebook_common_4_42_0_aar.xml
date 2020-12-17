@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-common:4.42.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5c14e0d913294df899157e65d792885/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5c14e0d913294df899157e65d792885/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5c14e0d913294df899157e65d792885/jetified-facebook-common-4.42.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/350e33295c49c38c29f308851bbb4ba1/jetified-facebook-common-4.42.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/350e33295c49c38c29f308851bbb4ba1/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/350e33295c49c38c29f308851bbb4ba1/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b3206f4d4f9b52efc2893fe56d93c97/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b3206f4d4f9b52efc2893fe56d93c97/jetified-facebook-common-4.42.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b3206f4d4f9b52efc2893fe56d93c97/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16aca33c0bcaed0e0d3ecd0f133de5f8/jetified-facebook-common-4.42.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16aca33c0bcaed0e0d3ecd0f133de5f8/jetified-facebook-common-4.42.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16aca33c0bcaed0e0d3ecd0f133de5f8/jetified-facebook-common-4.42.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/8fa84fa52dc0cca66fc95bc7366611664d906479/facebook-common-4.42.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-common/4.42.0/530f5efa4a36dbe8c7b41563278085ffc59b5b26/facebook-common-4.42.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

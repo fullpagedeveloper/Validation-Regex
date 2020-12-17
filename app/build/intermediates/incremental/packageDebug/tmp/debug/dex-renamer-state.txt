@@ -1,0 +1,7 @@
+#Thu Nov 26 14:05:07 WIB 2020
+base.0=/Users/androidtsm/Documents/Learning/firebase/GoogleAuthWithBackend/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/androidtsm/Documents/Learning/firebase/GoogleAuthWithBackend/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
